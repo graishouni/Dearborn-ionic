@@ -75,7 +75,7 @@
     "lightgallery.js": "^1.1.2",
     "ng-dynamic": "^3.0.2",
     "ngx-pinch-zoom": "^1.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "onesignal-cordova-plugin": "^2.4.5",
     "phonegap-plugin-multidex": "^1.0.0",
     "phonegap-plugin-push": "^2.2.3",
